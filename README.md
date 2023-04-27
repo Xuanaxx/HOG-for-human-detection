@@ -1,0 +1,1 @@
+# HOG-for-human-detection
